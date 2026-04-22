@@ -38,10 +38,10 @@ Computer Science student at Fatima Jinnah Women University. I consider myself a 
 ## Certification
 
 * freelancing
-![freelancing certificate](freelancing.png)
+
 
 * Graphic Designing
-![GD certificate](graphicdesigning.png)
+
 
 * Communication and Soft Skill
 
