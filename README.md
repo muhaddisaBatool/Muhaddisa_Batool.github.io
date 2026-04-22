@@ -6,7 +6,7 @@ Computer Science student at Fatima Jinnah Women University. I consider myself a 
 
 ## Contact Information
 
-* **Phone:** 000000000
+* **Phone:** 03435822119
 * **Email:** [madhuuu@gmail.com](mailto:madhuuu@gmail.com)
 * **Location:** Rawalpindi, Pakistan
 
@@ -34,6 +34,12 @@ Computer Science student at Fatima Jinnah Women University. I consider myself a 
 * MS Office
 * Graphic Design
 * Freelancing
+
+## Certification
+
+* freelancing
+* Graphic Designing
+* Communication and Soft Skill
 
 ## Languages
 
