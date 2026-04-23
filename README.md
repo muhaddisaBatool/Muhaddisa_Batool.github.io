@@ -41,7 +41,7 @@ Computer Science student at Fatima Jinnah Women University. I consider myself a 
 
 
 * Graphic Designing
-
+![Graphic Designing Certificate](GD.png)
 
 * Communication and Soft Skill
 
